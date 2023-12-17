@@ -1,9 +1,9 @@
 package service
 
 import (
-	"cname/contants"
-	"cname/util"
 	"fmt"
+	"github.com/liu12589/cname/contants"
+	"github.com/liu12589/cname/util"
 	"math/rand"
 	"time"
 )

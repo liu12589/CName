@@ -1,8 +1,8 @@
 package client
 
 import (
-	"cname/model"
-	"cname/service"
+	"github.com/liu12589/cname/model"
+	"github.com/liu12589/cname/service"
 )
 
 func NewClient() *service.Client {

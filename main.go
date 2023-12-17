@@ -1,8 +1,8 @@
 package main
 
 import (
-	"cname/client"
 	"fmt"
+	"github.com/liu12589/cname/client"
 )
 
 func main() {
