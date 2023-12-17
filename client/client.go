@@ -1,8 +1,8 @@
 package client
 
 import (
-	"CName/model"
-	"CName/service"
+	"cname/model"
+	"cname/service"
 )
 
 func NewClient() *service.Client {

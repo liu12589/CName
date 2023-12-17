@@ -1,8 +1,8 @@
 package service
 
 import (
-	"CName/contants"
-	"CName/util"
+	"cname/contants"
+	"cname/util"
 	"fmt"
 	"math/rand"
 	"time"
