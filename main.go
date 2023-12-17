@@ -1,7 +1,7 @@
 package main
 
 import (
-	"CName/client"
+	"cname/client"
 	"fmt"
 )
 
